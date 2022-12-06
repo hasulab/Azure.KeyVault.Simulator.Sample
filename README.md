@@ -3,7 +3,7 @@ Azure KeyVault Simulator Sample
 ## Getting Started 
 
 * Create a new ASP.NET  Code empty Project
-* Add latest Hasulab.Azure.KeyVault.Simulator library reference from nuget.org
+* Add latest [Hasulab.Azure.KeyVault.Simulator nuget library](https://www.nuget.org/packages/Hasulab.Azure.KeyVault.Simulator/0.0.3#readme-body-tab) version
 * Add following lines to Progarm.cs
 ```
 builder.Services.AddLogging();
